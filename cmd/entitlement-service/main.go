@@ -1,14 +1,14 @@
 package main
 
 import (
-	"entitlement/entitlementsvc"
+	Model "entitlement/entitlementsvc"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
 )
 
-var entitlements = []entitlementsvc.Entitlement{
-	{"E01", []entitlementsvc.Feature{
+var entitlements = []Model.Entitlement{
+	{"E01", []Model.Feature{
 		{"F1", "Feature 1", "Rw"},
 		{"F1", "Feature 2", "R"},
 	}},

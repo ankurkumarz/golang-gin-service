@@ -22,3 +22,4 @@ import (
 - [Another GIN Example by Logrocket](https://blog.logrocket.com/rest-api-golang-gin-gorm/)
 - [Module & Package - New Approach after Go 1.13](https://www.digitalocean.com/community/tutorials/how-to-use-go-modules)
 - [OpenAPI Client for Go](https://github.com/OpenAPITools/openapi-generator)
+- [Go Standard Project Layout](https://github.com/golang-standards/project-layout)
