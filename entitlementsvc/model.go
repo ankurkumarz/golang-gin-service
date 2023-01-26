@@ -9,3 +9,10 @@ type Feature struct {
 	Name        string `json:"name,omitempty"`
 	AccessLevel string `json:"level,omitempty"`
 }
+
+var entitlements = []Entitlement{
+	{"E01", []Feature{
+		{"F1", "Feature 1", "Rw"},
+		{"F1", "Feature 2", "R"},
+	}},
+}

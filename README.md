@@ -1,4 +1,9 @@
 
+## Run
+```
+go run cmd/entitlement-service/main.go 
+```
+
 ## Package
 
 - Module has packages (folders)
