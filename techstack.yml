@@ -2,7 +2,7 @@ repo_name: ankurkumarz/golang-gin-service
 report_id: b5081daae262a6f223e26990ff9971a8
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:24:28+00:00'
+timestamp: '2024-02-29T19:00:53+00:00'
 requested_by: ankurkumarz
 provider: github
 branch: main
@@ -21,7 +21,7 @@ tools:
   detection_source_url: https://github.com/ankurkumarz/golang-gin-service
   detection_source: Repo Metadata
 - name: Gin Gonic
-  description: 'HTTP web framework written in Go '
+  description: HTTP web framework written in Go
   website_url: https://gin-gonic.com/
   license: MIT
   open_source: true
